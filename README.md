@@ -1,4 +1,4 @@
-# Ex.10 Responsive Web Design using Bootstrap
+![image](https://github.com/23000966/Pharma/assets/153983364/161bf3a0-2b05-4ab3-badd-db8305288ef2)# Ex.10 Responsive Web Design using Bootstrap
 ## Date:
 
 ## AIM:
@@ -414,7 +414,7 @@ Publish the website in the LocalHost.
 ![image](https://github.com/23000966/Pharma/assets/153983364/5fc87f78-aaf8-4718-91e1-75ed5fef4f5b)
 ![image](https://github.com/23000966/Pharma/assets/153983364/e324ffb6-2914-409a-a8b7-d43e1e7e4b7d)
 ![image](https://github.com/23000966/Pharma/assets/153983364/17198fa7-0e10-4584-a0b4-883a40941f86)
-![Uploading image.png…]()
+![image](https://github.com/23000966/Pharma/assets/153983364/493c6e6f-3e2d-4765-9936-1075c797ad82)
 
 
 ## RESULT:
