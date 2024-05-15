@@ -1,4 +1,4 @@
-![image](https://github.com/23000966/Pharma/assets/153983364/161bf3a0-2b05-4ab3-badd-db8305288ef2)# Ex.10 Responsive Web Design using Bootstrap
+# Ex.10 Responsive Web Design using Bootstrap
 ## Date:
 
 ## AIM:
